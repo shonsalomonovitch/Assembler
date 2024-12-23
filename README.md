@@ -1,5 +1,7 @@
-Assembler for assembly language in C 
+Assembler for assembly language in C.
+ 
 A University Project. Was made as a part of my bachelore degree in systems programming lab course. It is an "imaginary assembler" for assembly programming language. Was written in C programming language at linux.
+
 Example of error handeling :
 
 ![error1_screenshot](https://github.com/user-attachments/assets/126cdeb7-2691-4341-82f3-9f70a01719d5)
